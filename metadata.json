@@ -1,0 +1,6 @@
+{
+  "name": "NoFap Tracker",
+  "description": "An elegant, offline-first NoFap habit tracker with neumorphism/glassmorphism aesthetics, gamified badges, benefits explore, progress reports, calendar check-in, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
